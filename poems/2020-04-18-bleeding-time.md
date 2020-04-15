@@ -7,34 +7,34 @@ comments: true
 category: blog
 ---
 Yesterday i was an hourglass of sand  
-The sky to paint 
-while I stood 
-in Pain,
-Time
-Glistening 
-Through my skin
-Within: making small, soft cuts 
-With its lazy, momentlong circumference
-
-Not knowing whether we lay on land or sea
-Trapped in the beach’s mystery
-I was anxious, frightened even
-Knew not of any courage in me,
-To steal what was not mine and yet was all I could see around me
-
-Sand, Water, The Sky, The Birds,  
-Hunger. 
-I was hungry.
-I looked at the blue, gentle sea and murmured
-I have nothing to offer
-The ocean swelled up, rising tide, drawing its water in,
-I felt a cloud cover my eyes, repelling Helios’ fiery rage.
-And for a mere second the water stood still; 
-the hourglass got turned,
-The waves they rushed jubilant and the water sprites came leaping, eager 
-to continue playing their game along Gaia’s shores 
-Rolling dollars of sand out of pennies, filling up the sea’s treasury
-
+The sky to paint  
+while I stood  
+in Pain,  
+Time  
+Glistening   
+Through my skin  
+Within: making small, soft cuts   
+With its lazy, momentlong circumference  
+  
+Not knowing whether we lay on land or sea  
+Trapped in the beach’s mystery  
+I was anxious, frightened even  
+Knew not of any courage in me,  
+To steal what was not mine and yet was all I could see around me  
+  
+Sand, Water, The Sky, The Birds,    
+Hunger.   
+I was hungry.  
+I looked at the blue, gentle sea and murmured  
+I have nothing to offer  
+The ocean swelled up, rising tide, drawing its water in,  
+I felt a cloud cover my eyes, repelling Helios’ fiery rage.  
+And for a mere second the water stood still;   
+the hourglass got turned,  
+The waves they rushed jubilant and the water sprites came leaping, eager   
+to continue playing their game along Gaia’s shores   
+Rolling dollars of sand out of pennies, filling up the sea’s treasury  
+  
 And with their song of bubbles, drew us in in want of Odysseus’ deceit,
 For I was polymorphing within the sea’s gather
 Not merely a land-dweller, with my sandy skin
