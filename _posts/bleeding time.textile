@@ -1,0 +1,7 @@
+layout 	title
+post
+	
+Blogging Like a Hacker
+{{ page.title }}
+
+17 Nov 2008 – San Francisco
