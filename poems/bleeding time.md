@@ -74,4 +74,4 @@ From I to You
 Me to thee
 I yearn to be one again
 Molt away this sandy exterior and give way to the surging ocean
-That rises without and within
+That rises without and within.
