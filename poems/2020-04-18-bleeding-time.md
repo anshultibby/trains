@@ -6,6 +6,7 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
+# Bleeding time  
 Yesterday i was an hourglass of sand  
 The sky to paint  
 while I stood  
@@ -59,7 +60,7 @@ Forever famished for mine
 The myth of Chronos persists perpetually  
 No god are safe from his hollow appetite  
 Not the Greeks having already departed our world for thousands of years  
-Neither Vishnu, while still around, he recedes rapidly like the hairline of Grey-haired vaishnavs  
+Neither Vishnu, while still around, he recedes rapidly like the hairline of Grey-haired *vaishnavs*  
 For gods just like words are made of this Earth  
 Stubborn and unwieldy  
 Rocks on the sea never last, no matter how igneous they be  
@@ -67,7 +68,7 @@ The earth turns once
 But the ocean sways eternally  
 Turns and turns the sandglasses  
 Thud thud thud  
-Sounds Kala’s damru invoking endless destruction  
+*Kala*’s damru invoking endless destruction  
   
 I look up to the sun, the clouds having cleared  
 And at my feet  
